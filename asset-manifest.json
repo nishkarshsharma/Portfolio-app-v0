@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-app-v0/static/css/main.073c9b0a.css",
-    "main.js": "/portfolio-app-v0/static/js/main.1a4744b7.js",
+    "main.js": "/portfolio-app-v0/static/js/main.a21c0e0f.js",
     "static/js/787.30237536.chunk.js": "/portfolio-app-v0/static/js/787.30237536.chunk.js",
     "static/media/MedievalVillage.png": "/portfolio-app-v0/static/media/MedievalVillage.134dc60ba4d8550abf24.png",
     "static/media/Forest.png": "/portfolio-app-v0/static/media/Forest.eba32bfbcfadf8f12863.png",
@@ -22,11 +22,11 @@
     "static/media/IdleAnim.png": "/portfolio-app-v0/static/media/IdleAnim.895f49b37d8cfc7f9ec9.png",
     "index.html": "/portfolio-app-v0/index.html",
     "main.073c9b0a.css.map": "/portfolio-app-v0/static/css/main.073c9b0a.css.map",
-    "main.1a4744b7.js.map": "/portfolio-app-v0/static/js/main.1a4744b7.js.map",
+    "main.a21c0e0f.js.map": "/portfolio-app-v0/static/js/main.a21c0e0f.js.map",
     "787.30237536.chunk.js.map": "/portfolio-app-v0/static/js/787.30237536.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.1a4744b7.js"
+    "static/js/main.a21c0e0f.js"
   ]
 }
